@@ -1,0 +1,7 @@
+Copyright (C) 2015, Zhiming Zhang and Chan-ching Hsu.
+All rights reserved.
+Contact: zhangzm05@gmail.com
+
+
+CoolCloud design is tested on VMware vSphere 5.0 with vCenter 5.0, XenServer 6.5 and XenCenter 6.5.
+CoolCloud requres VMware SDK and XenServer SDK and DDK to operate.
